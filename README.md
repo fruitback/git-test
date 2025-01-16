@@ -1,2 +1,7 @@
 Hello Git
-Hello SSSAFY ㅎ
+
+Hello SSSAFY
+
+Hello git
+
+Hello World
